@@ -42,7 +42,7 @@ namespace BMI計算機
                 resultIndex = 1;
             }
             else if (bmi < 27)
-            {1
+            {
                 resultIndex = 2;
             }
             else if (bmi < 30)
